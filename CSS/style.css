@@ -10,8 +10,14 @@ h2 + p{
     list-style:none;
 } */
 
-a:link{
+li > a{
     color:green;
+}
+a:hover{
+    color:pink;
+}
+a:visited{
+    color:red;
 }
 li:first-of-type::first-letter{
     font-style:bold;
