@@ -27,3 +27,9 @@ body > a:first-child{
     background-color:yellow;
 } */
 
+img{
+    float:left;
+}
+.below{
+    clear:both;
+}
