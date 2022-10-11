@@ -10,7 +10,7 @@ h2 + p{
     list-style:none;
 } */
 
-li > a{
+/* li > a{
     color:green;
 }
 li > a:hover{
@@ -25,4 +25,5 @@ li:first-of-type::first-letter{
 }
 body > a:first-child{
     background-color:yellow;
-}
+} */
+
