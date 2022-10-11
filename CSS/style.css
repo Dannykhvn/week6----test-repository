@@ -13,3 +13,7 @@ h2 + p{
 a:link{
     color:green;
 }
+li:first-of-type::first-letter{
+    font-style:bold;
+    font-size:120%;
+}
