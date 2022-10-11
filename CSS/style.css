@@ -20,7 +20,7 @@ li > a:visited{
     color:red;
 }
 li:first-of-type::first-letter{
-    font-style:bold;
+    font-weight:bold;
     font-size:120%;
 }
 body > a:first-child{
